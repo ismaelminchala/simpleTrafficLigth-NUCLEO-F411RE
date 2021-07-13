@@ -1,0 +1,7 @@
+main.c:37:5:main	240	static
+main.c:99:6:SystemClock_Config	88	static
+main.c:139:13:MX_GPIO_Init	40	static
+main.c:190:6:Error_Handler	8	static,ignoring_inline_asm
+main.c:224:13:normalOperation	32	static
+main.c:233:13:disconnOperation	32	static
+main.c:242:13:alarmOperation	32	static

@@ -1,0 +1,4 @@
+sequences.c:11:8:nonBlockingDelay	24	static
+sequences.c:24:6:sequenceActivation	24	static
+sequences.c:35:6:sequenceActualization	24	static
+sequences.c:43:6:positionRefresh	16	static

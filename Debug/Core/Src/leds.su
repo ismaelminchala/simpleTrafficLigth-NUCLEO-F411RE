@@ -1,0 +1,2 @@
+leds.c:14:6:turnOnLED	24	static
+leds.c:20:6:turnOffLEDs	16	static
